@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+[<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
@@ -214,3 +214,4 @@ This project has been archived. Means that it is no longer actively maintained b
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+](https://github.com/akash25bala)https://github.com/akash25bala
